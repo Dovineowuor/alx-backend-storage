@@ -14,7 +14,7 @@ You will need to have the following software installed on your machine:
 ### Clone the repository to your local machine:
 bash
 Copy code below
-'''git clone https://github.com/[username]/alx-backend-storage.git
+'''git clone https://github.com/dovineowuor/alx-backend-storage.git
 '''
 ### Change into the project directory:
 bash
